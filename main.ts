@@ -18,4 +18,3 @@ basic.showString('cm.')
 basic.showIcon(IconNames.Happy)
 basic.pause(500)
 basic.clearScreen()
-
